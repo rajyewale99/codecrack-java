@@ -1,0 +1,126 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "create",
+            "request": "launch",
+            "mainClass": "create",
+            "projectName": "DSA With Java_591f9769"
+        },
+        {
+            "type": "java",
+            "name": "interfaces",
+            "request": "launch",
+            "mainClass": "interfaces",
+            "projectName": "DSA With Java_591f9769"
+        },
+        {
+            "type": "java",
+            "name": "question2",
+            "request": "launch",
+            "mainClass": "question2",
+            "projectName": "DSA With Java_591f9769"
+        },
+        {
+            "type": "java",
+            "name": "orop",
+            "request": "launch",
+            "mainClass": "orop",
+            "projectName": "DSA With Java_591f9769"
+        },
+        {
+            "type": "java",
+            "name": "compress",
+            "request": "launch",
+            "mainClass": "compress",
+            "projectName": "DSA With Java_591f9769"
+        },
+        {
+            "type": "java",
+            "name": "palindrome",
+            "request": "launch",
+            "mainClass": "palindrome",
+            "projectName": "DSA With Java_591f9769"
+        },
+        {
+            "type": "java",
+            "name": "spiral",
+            "request": "launch",
+            "mainClass": "spiral",
+            "projectName": "DSA With Java_591f9769"
+        },
+        {
+            "type": "java",
+            "name": "search",
+            "request": "launch",
+            "mainClass": "search",
+            "projectName": "DSA With Java_591f9769"
+        },
+        {
+            "type": "java",
+            "name": "subarray_brute",
+            "request": "launch",
+            "mainClass": "subarray_brute",
+            "projectName": "DSA With Java_591f9769"
+        },
+        {
+            "type": "java",
+            "name": "subarray",
+            "request": "launch",
+            "mainClass": "subarray",
+            "projectName": "DSA With Java_591f9769"
+        },
+        {
+            "type": "java",
+            "name": "binarysearch",
+            "request": "launch",
+            "mainClass": "binarysearch",
+            "projectName": "DSA With Java_591f9769"
+        },
+        {
+            "type": "java",
+            "name": "update",
+            "request": "launch",
+            "mainClass": "update",
+            "projectName": "DSA With Java_591f9769"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "five",
+            "request": "launch",
+            "mainClass": "five",
+            "projectName": "DSA With Java_591f9769"
+        },
+        {
+            "type": "java",
+            "name": "one",
+            "request": "launch",
+            "mainClass": "one",
+            "projectName": "DSA With Java_591f9769"
+        },
+        {
+            "type": "java",
+            "name": "three",
+            "request": "launch",
+            "mainClass": "three",
+            "projectName": "DSA With Java_591f9769"
+        },
+        {
+            "type": "java",
+            "name": "two",
+            "request": "launch",
+            "mainClass": "two",
+            "projectName": "DSA With Java_591f9769"
+        }
+    ]
+}
